@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-moreira-079b72331/)
 
-## Tecnologias que sei utilizar atualmente
+## My Skill Set
 
 <div style="display: inline_block"><br/>
     <img aligne="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
